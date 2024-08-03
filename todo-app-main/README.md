@@ -1,18 +1,14 @@
 ## Todo App
+ This project is a to-do list app that I developed using React.
 
-Bu proje React kullanarak geliştirdiğim bir yapılacaklar listesi uygulamasıdır
+ ## Setup
 
-## Kurulum
+ First, copy the command below. Then, open the terminal screen, paste it to an area where you want the project to be installed, and run it.
 
-İlk olarak aşağıdaki komutu kopyalanız. Ardından terminal ekranını açarak, projenin kurulmasını istediğiniz bir alana gelerek yapıştırıp çalıştırınız.
+ 
 
-```sh
-git clone https://github.com/ahmetenesbahar/todo-app.git
-```
-
-## Çalıştırma
-
-Projeyi çalıştırmak için ilgili klasörlere gelip, aşağıdaki komutu yazmanız yeterli olacaktır.
+ ## Run
+ To run the project, simply go to the relevant folders and type the following command.
 
 ```sh
 npm start
@@ -20,14 +16,8 @@ npm start
 
 ## Ekran Görüntüleri
 
-<div>
-<img src="https://github.com/ahmetenesbahar/todo-app/blob/main/public/images/screenshots/todo-app-login-dark.png">
-<img src="https://github.com/ahmetenesbahar/todo-app/blob/main/public/images/screenshots/todo-app-dark.png">
-<img src="https://github.com/ahmetenesbahar/todo-app/blob/main/public/images/screenshots/todo-app-login-light.png">
-<img src="https://github.com/ahmetenesbahar/todo-app/blob/main/public/images/screenshots/todo-app-light.png">
+ 
+ ## More
 
-</div>
-
-## Daha fazlası
-
-Daha fazlası ve aklınıza takılan herhangi bir soru için için "Pull Request" isteklerinde bulunabilirsiniz.
+ 
+For more information and any questions you may have, you can make a "Pull Request" request.

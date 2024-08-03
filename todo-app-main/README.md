@@ -14,8 +14,7 @@
 npm start
 ```
 
-## Ekran Görüntüleri
-
+ 
  
  ## More
 
